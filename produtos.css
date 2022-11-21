@@ -1,5 +1,5 @@
 header {
-	background: #BBBBBB;
+	background: #cbd6e9;
 	padding: 20px 0;
 }
 
@@ -29,7 +29,7 @@ nav a {
 }
 
 nav a:hover {
-	color: #C78C19;
+	color: #cbd6e9;
 	text-decoration: underline;
 }
 
@@ -52,7 +52,7 @@ nav a:hover {
 }
 
 .produtos li:hover {
-	border-color: #C78C19;
+	border-color: #BBBBBB;
 }
 
 .produtos li:active {
